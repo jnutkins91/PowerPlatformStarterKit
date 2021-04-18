@@ -1,12 +1,9 @@
-# Power Platform Starter Kit
+# Power Platform Starter Kit - build
 
-This project is intended to be used as a starting point for any complex Power Platform implementation that leverages code components - such as plugins, scripts, or PCFs.
+The **build** directory contains components related to the build and deployment of your solution.
 
 ## What's in the box?
 
-The project is organised as follows:
+The directroy is organised as follows:
 
-- build
-- docs
-- powerplatform
-- src
+- ps

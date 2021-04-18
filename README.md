@@ -10,3 +10,5 @@ The project is organised as follows:
 - docs
 - powerplatform
 - src
+
+Each directory contains its own README that goes into more detail about how to use it.

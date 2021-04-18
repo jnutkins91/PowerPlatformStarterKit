@@ -1,4 +1,4 @@
-# Power Platform Starter Kit
+# Power Platform Starter Kit - docs
 
 This project is intended to be used as a starting point for any complex Power Platform implementation that leverages code components - such as plugins, scripts, or PCFs.
 

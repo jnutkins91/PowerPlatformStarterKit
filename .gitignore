@@ -345,5 +345,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-#
-src/client/WebResources/js/*/*
+
+# Power Platform
+src/client/WebResources/js/*
