@@ -1,4 +1,8 @@
-# Power Platform - Naming Convention
+# Power Platform - Naming Conventions & Rules
+
+## Rule 1
+
+Always name tables in the singular, e.g. 'Asset', not 'Assets'. Your schema name would then be 'ndxc_asset'.
 
 | Component Type         | Schema                                | Display                       |
 | ---------------------- | ------------------------------------- | ----------------------------- |
