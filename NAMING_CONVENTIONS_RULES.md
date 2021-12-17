@@ -4,6 +4,10 @@
 
 Always name tables in the singular, e.g. 'Asset', not 'Assets'. Your schema name would then be 'ndxc_asset'.
 
+## Rule 2
+
+Ensure column names are all lowercase, e.g. 'ndxc_name', not 'ndxc_Name'.
+
 ## Naming Conventions
 
 | Component Type         | Schema                                 | Display                                                             |
