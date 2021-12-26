@@ -8,6 +8,10 @@ Always name tables in the singular, e.g. 'Asset', not 'Assets'. Your schema name
 
 Ensure column names are all lowercase, e.g. 'ndxc_name', not 'ndxc_Name'.
 
+## Rule 3
+
+If you are using JavaScript on a table form, don't combine these with Business Rules - unless there is a CLEAR separation of the functionality provided.
+
 ## Naming Conventions
 
 | Component Type              | Schema                                 | Display                                                             |
