@@ -1,6 +1,6 @@
 # Power Platform - Create a Trial Environment
 
-**Last updated: ** 15/01/2021
+**Last updated:** 15/01/2021
 
 ## Steps
 
