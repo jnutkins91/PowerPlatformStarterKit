@@ -22,7 +22,7 @@ If you are using JavaScript on a table form, don't combine these with Business R
 | Cloud Flow (Example 1)          | -                                      | Ndxc.CloudFlow: Convert Crypto Currency (PowerApps V2)                     |
 | Cloud Flow (Example 2)          | -                                      | Ndxc.CloudFlow: Calculate Crypto Value (Dataverse: Financial Entry)        |
 | Cloud Flow (Example 3 - Manual) | -                                      | Ndxc.CloudFlow.Manual: Calculate Crypto Value (Dataverse: Financial Entry) |
-| Embedded Power BI Dashboard     | -                                      | Main Dashboard **[USER FACING]**                                           |
+| Embedded Power BI Dashboard     | -                                      | Main Dashboard (Power BI) **[USER FACING]**                                |
 | Environment Variable            | ndxc_env_powerbimaindashboard          | Ndxc.Env: PowerBi Main Dashboard                                           |
 | Custom Page                     | -                                      | Custom Page - Email CV                                                     |
 | Connection Ref                  | -                                      | Ndxc.ConRef: Power Apps Notification                                       |
